@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\29129\AndroidStudioProjects\android-ndk-master\endless-tunnel\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ndk-master\endless-tunnel\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d31df5141b8c494351e720f9a4d33a13495fd58a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\29129\AndroidStudioProjects\android-ndk-master\endless-tunnel\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="496b240adcac4aa7a2bb928915a5b6f63ab2d7f0">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ndk-master\endless-tunnel\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0dc1762bdbe881621289c935344af661c255b146\classes.dex" />
+    </item>
+
+</items>

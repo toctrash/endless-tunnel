@@ -1,0 +1,7 @@
+C:/Users/29129/AndroidStudioProjects/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/app-glue.dir
+C:/Users/29129/AndroidStudioProjects/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/game.dir
+C:/Users/29129/AndroidStudioProjects/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/edit_cache.dir
+C:/Users/29129/AndroidStudioProjects/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/rebuild_cache.dir
+C:/Users/29129/AndroidStudioProjects/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/armeabi/glm/CMakeFiles/glm.dir
+C:/Users/29129/AndroidStudioProjects/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/armeabi/glm/CMakeFiles/edit_cache.dir
+C:/Users/29129/AndroidStudioProjects/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/armeabi/glm/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+C:/Users/29129/AndroidStudioProjects/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/app-glue.dir
+C:/Users/29129/AndroidStudioProjects/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/game.dir
+C:/Users/29129/AndroidStudioProjects/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/edit_cache.dir
+C:/Users/29129/AndroidStudioProjects/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/rebuild_cache.dir
+C:/Users/29129/AndroidStudioProjects/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/x86/glm/CMakeFiles/glm.dir
+C:/Users/29129/AndroidStudioProjects/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/x86/glm/CMakeFiles/edit_cache.dir
+C:/Users/29129/AndroidStudioProjects/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/x86/glm/CMakeFiles/rebuild_cache.dir
